@@ -1,4 +1,5 @@
 # Cosmos
+An http(s)-based update provider for nano-launcher
 
 ## Requirements
 - NodeJS 18.x, if you just want to run the project 
@@ -7,8 +8,13 @@
 ## Setting up
 
 - Create the folder "/data" in the root of the project
-- This is the folder that will hold the files of your update 
+- This is the folder that will hold the files of your update
 
+### Running with NodeJS
+```
+npm install
+npm run dev
+```
 ### Running with docker
 
 - Replace the dummy path below with one pointing to the folder you've created in the root directory of the project
