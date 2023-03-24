@@ -1,5 +1,10 @@
-# Cosmos
-An http(s)-based update provider for nano-launcher
+<p align="center">
+  <img src="cosmos.png" width="400" height="400">
+</p>
+
+<p align="center">
+  An http(s)-based update provider for nano-launcher
+</p>
 
 ## Requirements
 - NodeJS 18.x, if you just want to run the project 
