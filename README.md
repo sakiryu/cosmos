@@ -12,8 +12,7 @@
 
 ## Setting up
 
-- Create the folder "/data" in the root of the project
-- This is the folder that will hold the files of your update
+- Create the folder "/data" in the root of the project (this is the folder that will hold the files of your update)
 
 ### Running with NodeJS
 ```
@@ -22,7 +21,7 @@ npm run dev
 ```
 ### Running with docker
 
-- Replace the dummy path below with one pointing to the folder you've created in the root directory of the project
+- Replace the dummy path below with to point to the folder you've created in the root directory of the project
 
 ```
 docker build . -t cosmos
