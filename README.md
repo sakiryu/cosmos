@@ -21,7 +21,7 @@ npm run dev
 ```
 ### Running with docker
 
-- Replace the dummy path below with to point to the folder you've created in the root directory of the project
+- Replace the dummy path below to point to the folder you've created in the root directory of the project
 
 ```
 docker build . -t cosmos
